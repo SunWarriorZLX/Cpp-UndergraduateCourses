@@ -1,0 +1,4 @@
+//输入格式
+关键字(空格)id
+KeyWord
+do 0    end 1   for 2   if 3    printf 4    scanf 5     then 6   while 7
